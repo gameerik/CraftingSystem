@@ -1,0 +1,4 @@
+apple,1
+gold bar,35,gold ingot
+gold ingot,9
+golden apple,100,apple,gold bar
